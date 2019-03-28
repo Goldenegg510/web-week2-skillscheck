@@ -11,6 +11,7 @@
   align-items: center;
 }
 .logo{
+  padding-left: 20px;
   font-size: 50px;
   color: white;
   text-transform: uppercase;
@@ -42,7 +43,7 @@
   height: 65vh;
   background: white;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
 }
 .green-box{
